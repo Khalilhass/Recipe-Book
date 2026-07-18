@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="brand_primary">#FFC2410C</color>
+    <color name="brand_on_primary">#FFFFFFFF</color>
+    <color name="brand_primary_container">#FFFDF2F0</color>
+    <color name="brand_on_primary_container">#FF431407</color>
+    <color name="brand_secondary">#FF9A3412</color>
+    <color name="brand_surface_tint">#FFC2410C</color>
+    <color name="auth_gradient_start">#FFFAF9F6</color>
+    <color name="auth_gradient_end">#FFF3E8DF</color>
+</resources>

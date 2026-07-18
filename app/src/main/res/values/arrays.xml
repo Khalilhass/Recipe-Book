@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries_array">
+        <item>Choose Country</item>
+        <item>Egypt</item>
+        <item>Saudi Arabia</item>
+        <item>United Arab Emirates</item>
+        <item>Jordan</item>
+        <item>Lebanon</item>
+        <item>Morocco</item>
+        <item>Tunisia</item>
+        <item>Algeria</item>
+        <item>Palestine</item>
+        <item>Other</item>
+    </string-array>
+</resources>
